@@ -150,26 +150,6 @@ Save Changes
 
 ---
 
-## Screenshots
-
-### Main Menu
-
-![Main Menu](screenshots/home.png)
-
-### Add Student
-
-![Add Student](screenshots/add-student.png)
-
-### Show Students
-
-![Show Students](screenshots/show-students.png)
-
-### Total Students
-
-![Total Students](screenshots/total-students.png)
-
----
-
 ## Learning Outcomes
 
 Through this project, I gained hands-on experience in:
